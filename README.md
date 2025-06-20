@@ -12,9 +12,9 @@ Hello, I'm **Nosipho Hlongwane** — a curious and detail-oriented **Data Analys
 
 Explore my portfolio, where data comes to life through analysis:
 
-- [Tableau](Add link)
-- [Data Science Porfo.io](Add link)
-- [GitHub](Add Link)
+- [Tableau] (Add link)
+- [Data Science Porfo.io] (Add link)
+- [GitHub] (Add Link)
 
 ---
 
