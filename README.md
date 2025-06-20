@@ -1,6 +1,7 @@
 # Nosipho Hlongwane | Data Analysis Portfolio 
--- 
 Documenting my Data Analysis projects 
+---
+
 ## Table of Contents
   - [Microsoft Excel](#microsoft-excel)
   - [Power BI](#power-bi)
@@ -9,7 +10,7 @@ Documenting my Data Analysis projects
   - [MySQL](#mysql)
 - [Contact](#contact)
 
---
+---
 
 ### 📊 Microsoft Excel
 
