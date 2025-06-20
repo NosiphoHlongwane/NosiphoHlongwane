@@ -12,7 +12,7 @@ Documenting my Data Analysis projects
 
 ---
 
-### 📊 Microsoft Excel
+### Microsoft Excel
 
 | Project Name | Year | Tools Used | Project Description |
 |--------------|------|-------------|---------------------|
@@ -22,7 +22,7 @@ Documenting my Data Analysis projects
 
 ---
 
-### 📈 Power BI
+### Power BI
 
 | Project Name | Year | Tools Used | Project Description |
 |--------------|------|-------------|---------------------|
@@ -32,7 +32,7 @@ Documenting my Data Analysis projects
 
 ---
 
-### 🐍 Python
+### Python
 
 | Project Name | Year | Tools Used | Project Description |
 |--------------|------|-------------|---------------------|
@@ -42,7 +42,7 @@ Documenting my Data Analysis projects
 
 ---
 
-### 📊 R
+### R
 
 | Project Name | Year | Tools Used | Project Description |
 |--------------|------|-------------|---------------------|
@@ -51,7 +51,7 @@ Documenting my Data Analysis projects
 
 ---
 
-### 🛢️ MySQL
+### MySQL
 
 | Project Name | Year | Tools Used | Project Description |
 |--------------|------|-------------|---------------------|
