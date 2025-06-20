@@ -1,10 +1,7 @@
-# Nosipho Hlongwane
----
-Hello, I'm **Nosipho Hlongwane** a detail-oriented **Data Analyst** with a background in journalism and international relations. I turn data into insights and stories that inform better decisions.
-
-- Analyzing and visualizing data to uncover trends and patterns.  
-- Skilled in cleaning, exploring, and interpreting complex datasets.  
-- Turning numbers into compelling dashboards and reports.
+# Hello
+## I am Nosipho Hlongwane 
+-- 
+Here I document my data analysis project. 
 
 ---
  **Projects**
