@@ -1,30 +1,19 @@
-# Hello
-## I am Nosipho Hlongwane 
+# Nosipho Hlongwane | Data Analysis Portfolio 
 -- 
-Here I document my data analysis project. 
+Documenting my Data Analysis projects 
+## Table of Contents
+  - [Microsoft Excel](#microsoft-excel)
+  - [Power BI](#power-bi)
+  - [Python](#python)
+  - [R](#r)
+  - [MySQL](#mysql)
+- [Projects](#projects)
+  - [Project 1 Title](#project-1-title)
+  - [Project 2 Title](#project-2-title)
+  - [Project 3 Title](#project-3-title)
+  - [Project 4 Title](#project-4-title)
+- [Contact](#contact)
 
----
- **Projects**
-
-
-- [Tableau] (Add link)
-- [Data Science Porfo.io] (Add link)
-- [GitHub] (Add Link)
-
----
-
-🛠️ **Tools & Skills**
-
-**Languages**  
-SQL • Python • R  
-
-**Data Tools**  
-Excel • Google Sheets • Power BI • Tableau  
-
-**Techniques**  
-Data Cleaning • Data Wrangling • Data Visualization • Analysis • Dashboard Development  
-
----
 
 👋🏽 **Connect with Me**
 
