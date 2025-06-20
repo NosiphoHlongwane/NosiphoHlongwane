@@ -12,6 +12,16 @@ Documenting my Data Analysis projects
 
 ---
 
+### MySQL
+
+| Project Name | Year | Tools Used | Project Description |
+|--------------|------|-------------|---------------------|
+| [Chicago Employees Exploration](#) | 2024 | MySQL, Excel | Queried large datasets to explore employee trends by department, gender, and job level. |
+| [Retail Sales Exploration](#) | 2024 | MySQL | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
+| [Job Lifestyle Correlation](#) | 2025 | MySQL | Explored how marital status, job type, and commute mode relate to educational background and sleep patterns. |
+
+---
+
 ### Microsoft Excel
 
 | Project Name | Year | Tools Used | Project Description |
@@ -32,6 +42,14 @@ Documenting my Data Analysis projects
 
 ---
 
+### Tableau
+
+| Project Name | Year | Tools Used | Project Description |
+|--------------|------|-------------|---------------------|
+| [Chicago Employees Exploration](#) | 2024 | MySQL, Excel | Queried large datasets to explore employee trends by department, gender, and job level. |
+
+---
+
 ### Python
 
 | Project Name | Year | Tools Used | Project Description |
@@ -48,16 +66,6 @@ Documenting my Data Analysis projects
 |--------------|------|-------------|---------------------|
 | [Student Depression Analysis](#) | 2025 | R, ggplot2 | Analyzed survey data to explore the impact of academic pressure and social factors on depression in students. |
 | [Youth Drug Abuse Stats](#) | 2025 | R, dplyr, ggplot2 | Cleaned and analyzed data to identify the most affected age groups and substance usage patterns. |
-
----
-
-### MySQL
-
-| Project Name | Year | Tools Used | Project Description |
-|--------------|------|-------------|---------------------|
-| [Chicago Employees Exploration](#) | 2024 | MySQL, Excel | Queried large datasets to explore employee trends by department, gender, and job level. |
-| [Retail Sales Exploration](#) | 2024 | MySQL | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
-| [Job Lifestyle Correlation](#) | 2025 | MySQL | Explored how marital status, job type, and commute mode relate to educational background and sleep patterns. |
 
 ---
 
