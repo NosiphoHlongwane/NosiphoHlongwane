@@ -1,5 +1,5 @@
 # Nosipho Hlongwane | Data Analysis Portfolio 
-** Documenting my Data Analysis projects **
+### Documenting my Data Analysis projects 
 ---
 
 ## Table of Contents
