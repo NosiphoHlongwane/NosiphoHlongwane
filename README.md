@@ -7,11 +7,6 @@ Documenting my Data Analysis projects
   - [Python](#python)
   - [R](#r)
   - [MySQL](#mysql)
-- [Projects](#projects)
-  - [Project 1 Title](#project-1-title)
-  - [Project 2 Title](#project-2-title)
-  - [Project 3 Title](#project-3-title)
-  - [Project 4 Title](#project-4-title)
 - [Contact](#contact)
 
 
