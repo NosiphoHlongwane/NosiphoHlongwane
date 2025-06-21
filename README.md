@@ -2,13 +2,14 @@
 ### Documenting my Data Analysis projects 
 ---
 
-## Table of Contents
+## Table of Contents 
+  - [MySQL](#mysql)
   - [Microsoft Excel](#microsoft-excel)
   - [Power BI](#power-bi)
+  - [Tableau](#tableau)
   - [Python](#python)
   - [R](#r)
-  - [MySQL](#mysql)
-- [Contact](#contact)
+  - [Contact](#contact)
 
 ---
 
