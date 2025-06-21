@@ -75,4 +75,5 @@
 - [LinkedIn](www.linkedin.com/in/nosipho-hlongwane-660b32344)
 - [Portfolio](coming soon)
 - [Email](nhhlongwane91@gmail.com)
+- [Tableau Visuals](https://public.tableau.com/app/profile/nosipho.hlongwane/vizzes)
 
