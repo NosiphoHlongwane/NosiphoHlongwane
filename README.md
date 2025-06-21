@@ -72,7 +72,7 @@
 
 👋🏽 **Connect with Me**
 
-- [LinkedIn](https://linkedin.com/in/nosipho-hlongwane)
+- [LinkedIn](www.linkedin.com/in/nosipho-hlongwane-660b32344)
 - [Portfolio](coming soon)
-- nhhlongwane91@gmail.com
+- [Email](nhhlongwane91@gmail.com)
 
