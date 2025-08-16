@@ -19,7 +19,7 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL, Excel | Queried large datasets to explore employee trends by department, gender, and job level. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction 
+| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL, Excel | Used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. Full projects view: 
 | [Retail Sales Exploration](#) | 2025 | MySQL | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
 
 ---
