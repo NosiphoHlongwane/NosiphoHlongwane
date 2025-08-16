@@ -26,9 +26,11 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 
 ### Python
 
-| Project Name | Year | Tools Used | Project Description |
-|--------------|------|-------------|---------------------|
-| [Electronic Sales Analysis](#) | 2025 | Python, Pandas, Matplotlib | Cleaned and explored sales data to understand customer behavior and monthly trends. |
+| Project Name | Year | Tools Used | Project Description | Link 
+|--------------|------|-------------|---------------------|--------------|
+| [HIV/AIDS comparative study ](#) | 2025 | Python, Pandas, Matplotlib, Numpy, Seaborn | Completed a comparative analysis using python to to get the correlation between the number of HIV/AIDS cases vs Number of deaths by country and region. |  |
+
+
 ---
 
 
