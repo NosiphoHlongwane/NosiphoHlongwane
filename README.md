@@ -7,8 +7,10 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 
 ---
 ## Table of Contents 
+- Projects: 
   - [MySQL](#mysql)
   - [Python](#python)
+- Contact : 
   - [Contact](#contact)
 
 ---
