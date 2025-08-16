@@ -17,7 +17,7 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 
 | Project Name | Year | Tools Used | Project Description |
 |--------------|------|-------------|---------------------|
-| [Chicago Employees Exploration](#) | 2025 | MySQL, Excel | Queried large datasets to explore employee trends by department, gender, and job level. |
+| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL, Excel | Queried large datasets to explore employee trends by department, gender, and job level. |
 | [Retail Sales Exploration](#) | 2025 | MySQL | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
 
 ---
