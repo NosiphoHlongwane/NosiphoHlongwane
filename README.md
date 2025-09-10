@@ -10,6 +10,7 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 - Projects
   - [MySQL](#mysql)
   - [Python](#python)
+  - [R](#R)
 - Contact 
   - [Contact](#contact)
 
@@ -30,10 +31,15 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 |--------------|------|-------------|---------------------|--------------|
 | [HIV/AIDS comparative study ](#) | 2025 | Python, Pandas, Matplotlib, Numpy, Seaborn | Completed a comparative analysis using python to to get the correlation between the number of HIV/AIDS cases vs Number of deaths by country and region. | https://github.com/NosiphoHlongwane/HIV-AIDS-prevalence-comparative-analysis |  
 
-
 ---
 
+### R
 
+| Project Name | Year | Tools Used | Project Description | Link 
+|--------------|------|-------------|---------------------|--------------|
+| [Post Pandemic Remote Work Health Impact 2025](#) | 2025 | R, Libraries: Tidyverse, dplyr, lubridate, stringr, forcats, ggplot2, scales, corrplot, nnet |This project analyses the impact of post-pandemic remote work on employee health and well-being, focusing on burnout, work-life balance, and mental/physical health issues. The study covers data cleaning, exploratory data analysis, visualization, and predictive modeling. | https://github.com/NosiphoHlongwane/HIV-AIDS-prevalence-comparative-analysis |  
+
+---
 👋🏽 **Connect with Me**
 
 - [LinkedIn](www.linkedin.com/in/nosipho-hlongwane-660b32344)
