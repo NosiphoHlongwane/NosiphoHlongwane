@@ -37,7 +37,7 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Post Pandemic Remote Work Health Impact 2025](#) | 2025 | R, Libraries: Tidyverse, dplyr, lubridate, stringr, forcats, ggplot2, scales, corrplot, nnet |This project analyses the impact of post-pandemic remote work on employee health and well-being, focusing on burnout, work-life balance, and mental/physical health issues. The study covers data cleaning, exploratory data analysis, visualization, and predictive modeling. | https://github.com/NosiphoHlongwane/HIV-AIDS-prevalence-comparative-analysis |  
+| [Post Pandemic Remote Work Health Impact 2025](#) | 2025 | R, Libraries: Tidyverse, dplyr, lubridate, stringr, forcats, ggplot2, scales, corrplot, nnet |This project analyses the impact of post-pandemic remote work on employee health and well-being, focusing on burnout, work-life balance, and mental/physical health issues. The study covers data cleaning, exploratory data analysis, visualization, and predictive modeling. | https://github.com/NosiphoHlongwane/Post-Pandemic-Remote-Work-Health-Impact-2025 |  
 
 ---
 👋🏽 **Connect with Me**
