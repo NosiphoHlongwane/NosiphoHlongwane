@@ -47,7 +47,7 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Vehicle Insurance)](#) | 2025 | Tableau | Coming Soon| Not Yet Available
+| [Vehicle Insurance](#) | 2025 | Tableau | Coming Soon| Not Yet Available
 
 ---
 
