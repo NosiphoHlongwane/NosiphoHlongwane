@@ -9,6 +9,7 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 ## Table of Contents 
 - Projects
   - [MySQL](#mysql)
+  - [Excel](#excel)
   - [Python](#python)
   - [R](#R)
 - Contact 
@@ -22,6 +23,32 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 |--------------|------|-------------|---------------------|--------------|
 | [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL, Excel | Used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. Full projects view: 
 | [Retail Sales Exploration](#) | 2025 | MySQL | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
+
+---
+
+### Excel
+
+| Project Name | Year | Tools Used | Project Description | Link 
+|--------------|------|-------------|---------------------|--------------|
+| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL, Excel | Used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. 
+| [Retail Sales Exploration](#) | 2025 | Excel | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
+
+---
+
+### Power BI
+
+| Project Name | Year | Tools Used | Project Description | Link 
+|--------------|------|-------------|---------------------|--------------|
+| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL, Excel | Used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. Full projects view: 
+| [Retail Sales Exploration](#) | 2025 | Power BI | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
+
+---
+### Tableau
+
+| Project Name | Year | Tools Used | Project Description | Link 
+|--------------|------|-------------|---------------------|--------------|
+| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL, Excel | Used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. Full projects view: 
+| [Retail Sales Exploration](#) | 2025 | Tableau | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
 
 ---
 
