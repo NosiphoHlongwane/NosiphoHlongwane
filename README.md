@@ -21,8 +21,8 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL, Excel | Used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. Full projects view: 
-| [Retail Sales Exploration](#) | 2025 | MySQL | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
+| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL | EDA: used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. Full projects view: 
+| [Vehicle Insurance ](#) | 2025 | MySQL |.Coming Soon|
 
 ---
 
@@ -30,8 +30,8 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL, Excel | Used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. 
-| [Retail Sales Exploration](#) | 2025 | Excel | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
+| [Employee Survey (Job Satisfaction)](#) | 2025 | Excel | Data Cleaaning | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. | 
+| [Customer Retail Purchase 2023](#) | 2025 | Excel, pivot table and Dashboarding |This project analyses the 2023 retail sales to uncover trends, customer behavior, and actionable marketing insights. |
 
 ---
 
@@ -39,16 +39,15 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL, Excel | Used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. Full projects view: 
-| [Retail Sales Exploration](#) | 2025 | Power BI | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
+| [Employee Survey (Job Satisfaction)](#) | 2025 | Power BI | Visualisation | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. Full projects view: 
+| [HR Employee Attrition](#) | 2025 | Power BI | Power Query, DAX and Visualisation| Not yet available
 
 ---
 ### Tableau
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL, Excel | Used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. Full projects view: 
-| [Retail Sales Exploration](#) | 2025 | Tableau | Wrote SQL queries to analyze seasonal retail trends and link discount rates to revenue fluctuations. |
+| [Vehicle Insurance)](#) | 2025 | Tableau | Coming Soon| Not Yet Available
 
 ---
 
@@ -65,8 +64,8 @@ Hey! I'm Nosipho. I have a background in Politics and International relation. I 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
 | [Post Pandemic Remote Work Health Impact 2025](#) | 2025 | R, Libraries: Tidyverse, dplyr, lubridate, stringr, forcats, ggplot2, scales, corrplot, nnet |This project analyses the impact of post-pandemic remote work on employee health and well-being, focusing on burnout, work-life balance, and mental/physical health issues. The study covers data cleaning, exploratory data analysis, visualization, and predictive modeling. | https://github.com/NosiphoHlongwane/Post-Pandemic-Remote-Work-Health-Impact-2025 |  
-
 ---
+
 👋🏽 **Connect with Me**
 
 - [LinkedIn](www.linkedin.com/in/nosipho-hlongwane-660b32344)
