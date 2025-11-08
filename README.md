@@ -10,21 +10,19 @@ I have a background in Politics and International relation. I have a strong back
 ## Skills
 |Technical Skills | Soft Skills |
 |------------------|------------------|
-|Excel | Data Analysis |
+|Excel | Adaptive |
 |SQL |Communication|
-Power BI  | Critical Thinking |
+Power BI  | Critical Thinker |
 |Tableau |Data Visualisation|
-| Python |  |
-| R | |
+| Python | Problem Solving |
+| R | Attention to Detail|
+|   | |
 ---
 ## Projects
   - [MySQL](#mysql)
   - [Excel](#excel)
   - [Python](#python)
   - [R](#R)
-- Contact 
-  - [Contact](#contact)
-
 ---
 
 ### MySQL
@@ -75,8 +73,7 @@ Power BI  | Critical Thinking |
 |--------------|------|-------------|---------------------|--------------|
 | [Post Pandemic Remote Work Health Impact 2025](#) | 2025 | R, Libraries: Tidyverse, dplyr, lubridate, stringr, forcats, ggplot2, scales, corrplot, nnet |This project analyses the impact of post-pandemic remote work on employee health and well-being, focusing on burnout, work-life balance, and mental/physical health issues. The study covers data cleaning, exploratory data analysis, visualization, and predictive modeling. | https://github.com/NosiphoHlongwane/Post-Pandemic-Remote-Work-Health-Impact-2025 |  
 ---
-
-👋🏽 **Connect with Me**
+## Contacts 
 
 - [LinkedIn](www.linkedin.com/in/nosipho-hlongwane-660b32344)
 - [Portfolio](coming soon)
