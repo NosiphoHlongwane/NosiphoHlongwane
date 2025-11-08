@@ -73,10 +73,3 @@ Power BI  | Critical Thinker |
 |--------------|------|-------------|---------------------|--------------|
 | [Post Pandemic Remote Work Health Impact 2025](#) | 2025 | R, Libraries: Tidyverse, dplyr, lubridate, stringr, forcats, ggplot2, scales, corrplot, nnet |This project analyses the impact of post-pandemic remote work on employee health and well-being, focusing on burnout, work-life balance, and mental/physical health issues. The study covers data cleaning, exploratory data analysis, visualization, and predictive modeling. | https://github.com/NosiphoHlongwane/Post-Pandemic-Remote-Work-Health-Impact-2025 |  
 ---
-## Contacts 
-
-- [LinkedIn](www.linkedin.com/in/nosipho-hlongwane-660b32344)
-- [Portfolio](coming soon)
-- [Email](nhhlongwane91@gmail.com)
-
-
