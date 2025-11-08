@@ -11,10 +11,11 @@ I have a background in Politics and International relation. I have a strong back
 |Technical Skills | Soft Skills |
 |------------------|------------------|
 |Excel | Data Analysis |
-|------------------|------------------|
-SQL | Communication |
-|------------------|------------------|
-Power BI & Tableau | Critical Thinking |
+|SQL |Communication|
+Power BI  | Critical Thinking |
+|Tableau |Data Visualisation|
+| Python |  |
+| R | |
 ---
 ## Projects
   - [MySQL](#mysql)
