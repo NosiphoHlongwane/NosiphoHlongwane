@@ -21,6 +21,7 @@ Power BI  | Critical Thinker |
 ## Projects
   - [MySQL](#mysql)
   - [Excel](#excel)
+  - [Power BI](#powerbi)
   - [Python](#python)
   - [R](#R)
 ---
@@ -47,8 +48,8 @@ Power BI  | Critical Thinker |
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Employee Survey (Job Satisfaction)](#) | 2025 | Power BI | Visualisation | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. Full projects view: 
-| [HR Employee Attrition](#) | 2025 | Power BI | Power Query, DAX and Visualisation| Not yet available
+| [Employee Survey (Job Satisfaction)](#) | 2025 | Power BI | Visualisation | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. 
+| [HR Employee Attrition](#) | 2025 | Power BI | Power Query, DAX and Visualisation| https://github.com/NosiphoHlongwane/HR-Employee-Attrition
 
 ---
 ### Tableau
