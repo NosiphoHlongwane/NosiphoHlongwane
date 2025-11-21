@@ -19,7 +19,9 @@ Power BI  | Critical Thinker |
 | Python | Problem Solving |
 | R | Attention to Detail|
 |   | |
+
 ---
+
 ## Projects
   - [MySQL](#mysql)
   - [Excel](#excel)
@@ -32,7 +34,7 @@ Power BI  | Critical Thinker |
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL | EDA: used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction.
+| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL | EDA: used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction
 | [Vehicle Insurance ](#) | 2025 | MySQL |.Coming Soon|
 
 ---
@@ -41,7 +43,7 @@ Power BI  | Critical Thinker |
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Employee Survey (Job Satisfaction)](#) | 2025 | Excel | Data Cleaning | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. | 
+| [Employee Survey (Job Satisfaction)](#) | 2025 | Excel | Data Cleaning | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction | 
 | [Customer Retail Purchase 2023](#) | 2025 | Excel, pivot table and Dashboarding |This project analyses the 2023 retail sales to uncover trends, customer behavior, and actionable marketing insights. |
 
 ---
@@ -50,7 +52,7 @@ Power BI  | Critical Thinker |
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Employee Survey (Job Satisfaction)](#) | 2025 | Power BI | Visualisation | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. 
+| [Employee Survey (Job Satisfaction)](#) | 2025 | Power BI | Visualisation | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction
 | [HR Employee Attrition](#) | 2025 | Power BI | Power Query, DAX and Visualisation| https://github.com/NosiphoHlongwane/HR-Employee-Attrition
 
 ---
@@ -75,4 +77,5 @@ Power BI  | Critical Thinker |
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
 | [Post Pandemic Remote Work Health Impact 2025](#) | 2025 | R, Libraries: Tidyverse, dplyr, lubridate, stringr, forcats, ggplot2, scales, corrplot, nnet |This project analyses the impact of post-pandemic remote work on employee health and well-being, focusing on burnout, work-life balance, and mental/physical health issues. The study covers data cleaning, exploratory data analysis, visualization, and predictive modeling. | https://github.com/NosiphoHlongwane/Post-Pandemic-Remote-Work-Health-Impact-2025 |  
+
 ---
