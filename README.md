@@ -44,7 +44,7 @@ Power BI  | Critical Thinker |
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
 | [Employee Survey (Job Satisfaction)](#) | 2025 | Excel | Data Cleaning | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction | 
-| [Customer Retail Purchase 2023](#) | 2025 | Excel, pivot table and Dashboarding |This project analyses the 2023 retail sales to uncover trends, customer behavior, and actionable marketing insights. |
+| [Customer Retail Purchase 2023](#) | 2025 | Excel, pivot table and Dashboarding |This project analyses the 2023 retail sales to uncover trends, customer behavior, and actionable marketing insights. | https://github.com/NosiphoHlongwane/Customer-Retail-Purchase 
 
 ---
 
