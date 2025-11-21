@@ -32,7 +32,7 @@ Power BI  | Critical Thinker |
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL | EDA: used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction. Full projects view: 
+| [Employee Survey (Job Satisfaction)](#) | 2025 | MySQL | EDA: used MySQL to calculate statistics of the demographics and analysed describution by gender education, and sleeping hours and investigating pattern. | https://github.com/NosiphoHlongwane/MySQL-Job-Satisfaction.
 | [Vehicle Insurance ](#) | 2025 | MySQL |.Coming Soon|
 
 ---
