@@ -19,7 +19,7 @@ I have a background in Politics and International relation. I have a strong back
 
 - Google Data Analytics | 2023 | Coursera
 - Google Business Intelligence | 2023 | Coursera
-- Web Development | 2023 - 2025 | SheCodes
+- Web Development | 2023 - 2025 | SheCodes Bootcamp
 - Backend Developmnet | 2025 | FNB App Academy
 
 ---
