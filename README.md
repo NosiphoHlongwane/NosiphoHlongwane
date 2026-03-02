@@ -5,8 +5,13 @@
 ![LinkedIn Banner](https://github.com/NosiphoHlongwane/NosiphoHlongwane/blob/main/LinkedIn%20Banner%20NH.png)
 
 ## About Me
-Hello! I'm Nosipho. 
-I have a background in Politics and International relation. I have a strong background in qualitative research methods and basic quantitative research methods. During my degree I was introduced to R programming, for research purposes. Over the years I have taken a leap into the technology field and and built a strong background in data analysis. I enjoy the idea of taking data from its uncleaned state to making it readable and visually appealing so to use to make informed decisions. I have take courses from Coursera such as the Google Data Analytics and Google Business intelligence to help hone my skills in data analysis and BI.
+
+Hello! Welcome to my portfolio
+
+I have a background in Politics and International relation. I have a strong background in qualitative research methods and basic quantitative research methods. During my degree I was introduced to R programming, for research purposes. Over the years I have taken a leap into the technology field and and built a strong background in data analysis. I enjoy the idea of taking data from its uncleaned state to making it readable and visually appealing so to use to make informed decisions. 
+I have a good understanding of the analytics techniques and and can conduct data wrangling, prepare data for cleaning and analysis, use statistical analysis to make sense and meaning of the data, build reports and dashboards, documenting and data story telling. 
+
+In this portfolio I showcases the projects I have taken using the skills attained throughout my academia and shortcourse education, to showcase my ability to use analytical methods and  technical skills that are essential in the data analytics fields, and the use of tools such as Power BI, SQL, Python, Excel, Tableau, and R/Rstudio. 
 
 
 ## Education 
