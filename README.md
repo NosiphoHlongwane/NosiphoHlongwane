@@ -9,6 +9,21 @@ Hello! I'm Nosipho.
 I have a background in Politics and International relation. I have a strong background in qualitative research methods and basic quantitative research methods. During my degree I was introduced to R programming, for research purposes. Over the years I have taken a leap into the technology field and and built a strong background in data analysis. I enjoy the idea of taking data from its uncleaned state to making it readable and visually appealing so to use to make informed decisions. I have take courses from Coursera such as the Google Data Analytics and Google Business intelligence to help hone my skills in data analysis and BI.
 
 
+## Education 
+
+- Bachelor of Arts with Honours | 2016 | Universiti of the Witwatersrand
+- Bachelor or Arts | 2013 - 2015 | University of the Witwatersrand 
+- Diploma in Journalism | 2010-2011 | Rosebank College
+
+### Certificates 
+
+- Google Data Analytics | 2023 | Coursera
+- Google Business Intelligence | 2023 | Coursera
+- Web Development | 2023 - 2025 | SheCodes
+- Backend Developmnet | 2025 | FNB App Academy
+
+---
+
 ## Skills
 |Technical Skills | Soft Skills |
 |------------------|------------------|
