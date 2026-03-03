@@ -66,7 +66,7 @@ In this portfolio I showcases the projects I have taken using the skills attaine
 
 | Project Name | Year | Tools Used | Project Description | Link 
 |--------------|------|-------------|---------------------|--------------|
-| [Vehicle Insurance](#) | 2025 | Tableau | Coming Soon| Not Yet Available
+| [Vehicle Insurance](#) | - | Tableau | Coming Soon| Not Yet Available
 
 ---
 
