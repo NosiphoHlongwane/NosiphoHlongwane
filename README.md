@@ -16,7 +16,7 @@ In this portfolio I showcases the projects I have taken using the skills attaine
 
 ## Education 
 
-- Bachelor of Arts with Honours | 2016 | Universiti of the Witwatersrand
+- Bachelor of Arts with Honours | 2016 | University of the Witwatersrand
 - Bachelor or Arts | 2013 - 2015 | University of the Witwatersrand 
 - Diploma in Journalism | 2010-2011 | Rosebank College
 
